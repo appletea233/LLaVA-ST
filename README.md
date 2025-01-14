@@ -26,7 +26,7 @@ This repository will provide the details and code for our model, dataset, and be
 
 Recent advancements in multimodal large language models (MLLMs) have shown promising results, yet existing approaches struggle to effectively handle both temporal and spatial localization simultaneously. 
 This challenge stems from two key issues: first, incorporating spatial-temporal localization introduces a vast number of coordinate combinations, complicating the alignment of linguistic and visual coordinate representations; second, encoding fine-grained temporal and spatial information during video feature compression is inherently difficult.
-To address these issues, we propose <strong>LLaVA-ST</strong><img src="figs/logo.png" style="width: 3.5%">, a MLLM for fine-grained spatial-temporal multimodal understanding.
+To address these issues, we propose <strong>LLaVA-ST</strong> <img src="figs/logo.png" style="width: 3%">, a MLLM for fine-grained spatial-temporal multimodal understanding.
 Our innovations include Language-Aligned Positional Embedding and the Spatial-Temporal Packer.
 Furthermore, we propose [ST-Align dataset]() with 4.3M training samples for fine-grained spatial-temporal multimodal understanding.
 With ST-Align dataset, we present a progressive training pipeline that aligns the visual and textual feature through sequential coarse-to-fine stages. Additionally, we introduce an [ST-Align benchmark]() to evaluate spatial-temporal interleaved fine-grained understanding tasks. Our method achieves outstanding performance on 11 benchmarks requiring fine-grained temporal, spatial, or spatial-temporal interleaving multimodal understanding.
