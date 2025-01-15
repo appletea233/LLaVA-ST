@@ -9,7 +9,7 @@
 -----
 
 <a href='#'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
-<a href='https://arxiv.org/abs/xxxx.xxxxx'><img src='https://img.shields.io/badge/Paper-PDF-orange'></a> 
+<a href='https://arxiv.org/abs/2501.08282'><img src='https://img.shields.io/badge/Paper-PDF-orange'></a> 
 <!-- <a href='#'><img src='https://img.shields.io/badge/Demo-Page-purple'></a>  -->
 
 <!-- <a href='https://huggingface.co/LLaVA-ST'><img src='https://img.shields.io/badge/Model-Huggingface-red'></a> 
@@ -20,7 +20,7 @@ This repository will provide the details and code for our model, dataset, and be
 -----------
 
 ## 📰 News
-* **[2025.01.15]** 📄 Our paper is now available on [Arxiv](https://arxiv.org/abs/xxxx.xxxxx).
+* **[2025.01.15]** 📄 Our paper is now available on [Arxiv](https://arxiv.org/abs/2501.08282).
 
 ## 📝 Abstract
 
@@ -45,7 +45,15 @@ With ST-Align dataset, we present a progressive training pipeline that aligns th
 LLaVA-ST demonstrates high performance across various tasks of fine-grained multimodal understanding and is the first
 MLLM capable of simultaneously processing spatial-temporal fine-grained understanding tasks.
 
-<!-- ## 📝 Citation
+## 📝 Citation
 ```bibtex
-
-``` -->
+@misc{li2025llavastmultimodallargelanguage,
+      title={LLaVA-ST: A Multimodal Large Language Model for Fine-Grained Spatial-Temporal Understanding}, 
+      author={Hongyu Li and Jinyu Chen and Ziyu Wei and Shaofei Huang and Tianrui Hui and Jialin Gao and Xiaoming Wei and Si Liu},
+      year={2025},
+      eprint={2501.08282},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2501.08282}, 
+}
+```
