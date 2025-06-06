@@ -21,7 +21,8 @@ This repository will provide the details and code for our model, dataset, and be
 
 ## 📰 News
 * **[2025.01.15]** 📄 Our paper is now available on [Arxiv](https://arxiv.org/abs/2501.08282).
-* **[2025.02.27]** 📄 Our paper has been accepted by CVPR 2025! 🎉🎉🎉 
+* **[2025.02.27]** 😄 Our paper has been accepted by CVPR 2025! 🎉🎉🎉
+* Due to Meituan's release review process, our model, dataset, and benchmark will be open-sourced as soon as possible.
 
 ## 📝 Abstract
 
