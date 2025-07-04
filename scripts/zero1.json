@@ -1,0 +1,13 @@
+{
+    "train_micro_batch_size_per_gpu": 1,
+    "optimizer": {
+        "type": "Adam",
+        "params": {
+            "lr": 5e-5
+        }
+    },
+    "zero_optimization": {
+        "stage": 1,
+    }
+}
+

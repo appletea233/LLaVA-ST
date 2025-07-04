@@ -1,0 +1,20 @@
+charades:
+  data_folder: data/benchmarks/charades/sources
+  sta: data/benchmarks/charades/test.json
+
+st-align:
+  data_folder: data/benchmarks/st-align/sources
+  stvg: data/benchmarks/st-align/stvg.json
+  svg: data/benchmarks/st-align/svg.json
+  elc: data/benchmarks/st-align/elc.json
+
+refcoco:
+  data_folder: data/benchmarks/refcoco/sources
+  basic: data/benchmarks/refcoco/refcoco_val.json
+  basic_A: data/benchmarks/refcoco/refcoco_testA.json
+  basic_B: data/benchmarks/refcoco/refcoco_testB.json
+  add: data/benchmarks/refcoco/refcoco+_val.json
+  add_A: data/benchmarks/refcoco/refcoco+_testA.json
+  add_B: data/benchmarks/refcoco/refcoco+_testB.json
+  g: data/benchmarks/refcoco/refcocog_val.json
+  g_: data/benchmarks/refcoco/refcocog_test.json

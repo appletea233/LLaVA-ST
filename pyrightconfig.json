@@ -1,0 +1,19 @@
+{
+    "exclude": [
+        "annotations",
+        "Datasets",
+        "output",
+        "eval_outputs",
+        "google",
+        "checkpoints*",
+        "datasets"
+    ],
+    "reportPossiblyUnboundVariable":false,
+    "reportAttributeAccessIssue":"none",
+    "reportOptionalMemberAccess":"none",
+    "reportArgumentType":"none",
+    "reportOptionalSubscript":"none",
+    "reportIndexIssue":"none",
+    "reportAssignmentType":"none",
+    "reportIncompatibleVariableOverride":"none"
+}
