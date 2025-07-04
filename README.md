@@ -19,10 +19,7 @@ This repository provide the details and code for model, dataset, and benchmark f
 -----------
 
 ## 📰 News
-* **[2025.01.15]** 📄 Our paper is now available on [arXiv](https://arxiv.org/abs/2501.08282).
-* **[2025.02.27]** 🎉 Our paper has been accepted by CVPR 2025! 
-* **[2025.07.05]** 🎉 Release our [code](https://github.com/appletea233/LLaVA-ST), [model](https://huggingface.co/appletea2333/LLaVA-ST-Qwen2-7B), [benchmark](https://huggingface.co/datasets/appletea2333/ST-Align-Benchmark), and [datasets](https://huggingface.co/datasets/appletea2333/ST-Align-Dataset).
-
+* **[2025.01.15]** 📄 Our paper is now available on [Arxiv](https://arxiv.org/abs/2501.08282).
 
 ## 📝 Abstract
 
