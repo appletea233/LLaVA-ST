@@ -14,7 +14,7 @@
 <!-- <a href='#'><img src='https://img.shields.io/badge/Demo-Page-purple'></a>  -->
 
 
-This repository provide the details and code for model, dataset, and benchmark for LLaVA-ST, a model designed for fine-grained spatial-temporal multimodal understanding.
+This repository provide the details and code for LLaVA-ST, a model designed for fine-grained spatial-temporal multimodal understanding.
 
 -----------
 
